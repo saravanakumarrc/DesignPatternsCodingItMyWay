@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonPrimeBridgePattern", "AmazonPrimeBridgePattern\AmazonPrimeBridgePattern.csproj", "{DF6E2B20-83E0-4B5A-A24C-7D8562C1982B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaceTests", "UserInterfaceTests\UserInterfaceTests.csproj", "{A8691326-E5A1-4CFA-8FDA-B2A2F720B140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6E2B20-83E0-4B5A-A24C-7D8562C1982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6E2B20-83E0-4B5A-A24C-7D8562C1982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6E2B20-83E0-4B5A-A24C-7D8562C1982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6E2B20-83E0-4B5A-A24C-7D8562C1982B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8691326-E5A1-4CFA-8FDA-B2A2F720B140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8691326-E5A1-4CFA-8FDA-B2A2F720B140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8691326-E5A1-4CFA-8FDA-B2A2F720B140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8691326-E5A1-4CFA-8FDA-B2A2F720B140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885B3B42-0CE1-46CB-B427-14BF78092E30}
+	EndGlobalSection
+EndGlobal

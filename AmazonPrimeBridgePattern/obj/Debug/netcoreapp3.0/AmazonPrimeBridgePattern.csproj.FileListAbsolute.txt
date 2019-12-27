@@ -1,0 +1,11 @@
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\bin\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.exe
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\bin\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.deps.json
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\bin\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.runtimeconfig.json
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\bin\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.runtimeconfig.dev.json
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\bin\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.dll
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\bin\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.pdb
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\obj\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.csprojAssemblyReference.cache
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\obj\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.AssemblyInfoInputs.cache
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\obj\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.AssemblyInfo.cs
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\obj\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.dll
+C:\Users\sradhakrishnan\source\repos\AmazonPrimeBridgePattern\AmazonPrimeBridgePattern\obj\Debug\netcoreapp3.0\AmazonPrimeBridgePattern.pdb
